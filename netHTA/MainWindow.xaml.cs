@@ -47,7 +47,7 @@ namespace WpfApp1
             {
                 return args[idx];
             }
-            return "c:/WPF/index.html";
+            return "c:/Public/index.html";
             return "http://google.co.jp/";
         }
 
